@@ -2,7 +2,7 @@ title          : "Introduction to DataCamp Projects"
 description    : >
   If you've never done a DataCamp project, this is the place to start! 
 language       : r
-from           : 'r-notebooks-prod:21'
+from           : 'r-notebooks-prod:34'
 runtime_config : default
 state          : development
 long_description: |
@@ -19,7 +19,7 @@ collaborators:
   - ramnath@datacamp.com
   - martijn@datacamp.com
 topics:
-  - 2
+  - 1
   - 4
   - 12
 prerequisites:
