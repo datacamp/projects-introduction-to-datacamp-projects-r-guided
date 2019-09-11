@@ -2,7 +2,7 @@ title          : "Introduction to DataCamp Projects"
 description    : >
   If you've never done a DataCamp project, this is the place to start! 
 language       : r
-from           : 'r-notebooks-tidyverse-prod:v1.0.0'
+from           : 'r-notebooks-prod:v2.0.0'
 runtime_config : default
 state          : development
 long_description: |
