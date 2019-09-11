@@ -1,0 +1,26 @@
+title          : "Introduction to DataCamp Projects"
+description    : >
+  If you've never done a DataCamp project, this is the place to start! 
+language       : r
+from           : 'r-notebooks-prod:v2.0.0'
+runtime_config : default
+state          : development
+long_description: |
+    This is an introduction to DataCamp projects. DataCamp projects allow you to apply the skills you've learned in DataCamp courses. In each project, you will carry out an end-to-end analysis, on real-world tasks, using real-world tools and workflows.
+    
+    In this gentle introduction to DataCamp projects, we will walk you through the projects interface and you will learn how to work with Jupyter notebooks: an open-source web application that is great for interactive data analysis.
+technology: 1
+instructors:
+  - rasmus.baath@gmail.com
+collaborators:
+  - ramnath@datacamp.com
+  - martijn@datacamp.com
+topics:
+  - 4
+  - 12
+prerequisites:
+  - 58
+difficulty_level: 1
+time_needed: "30 minutes"
+illustration: "https://s3.amazonaws.com/assets.datacamp.com/production/project_41/datasets/project_image.png"
+
