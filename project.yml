@@ -34,5 +34,3 @@ language       : r # One of r, python or sql
 # The name of the docker image used to run the course
 from           : 'r-notebooks-prod:v2.0.0'
 runtime_config : default # default/heavy . Set to heavy for more resource intensive projects.
-
-
